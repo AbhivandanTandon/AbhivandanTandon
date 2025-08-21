@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhivandanTandon
-- 👀 I’m interested in App/Web Development and cybersecurity
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning System Commands
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : abhivandan2005@gmail.com
